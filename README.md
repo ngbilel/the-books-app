@@ -1,4 +1,4 @@
-## Run the  Appkication
+## Run the  Application
 
     ## 1 Install the Server dependencies 
     ## 2 Launch the server
